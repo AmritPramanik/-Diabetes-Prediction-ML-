@@ -6,13 +6,6 @@ A Python-based deep learning application that identifies the closest matching Bo
 
 ---
 
-## 📂 Dataset
-
-The dataset is sourced from Kaggle:  
-[Bollywood Celeb Localized Face Dataset](https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset)
-
----
-
 ## 📦 Packages Used
 
 | Package       | Purpose                                      |

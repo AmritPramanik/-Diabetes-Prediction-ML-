@@ -8,13 +8,11 @@ A Python-based deep learning application that identifies the closest matching Bo
 
 ## 📦 Packages Used
 
-| Package       | Purpose                                      |
-|---------------|----------------------------------------------|
-| `Python`      | Core programming language                    |
-| `NumPy`       | Numerical computations                       |
-| `Pandas`      | Data manipulation and analysis               |
-| `scikit-learn`| ML utilities (e.g., train/test split, etc.)  |
-| `Jupyter`     | Development environment                      |
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -35,21 +33,4 @@ A Python-based deep learning application that identifies the closest matching Bo
 5. **Output**  
    Display the Bollywood celebrity with the closest resemblance to the input image.
 
----
 
-## 🧠 Model Details
-
-- **Architecture:** ResNet-50  
-- **Input Size:** 224x224 RGB  
-- **Framework:** TensorFlow / Keras  
-- **Face Detection:** MTCNN  
-- **Training:** Pre-trained on Bollywood celeb face dataset from Kaggle
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bollywood-celeb-predictor.git
-   cd bollywood-celeb-predictor

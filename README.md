@@ -13,24 +13,3 @@ It's a Python-based Machine learning application that  predicts whether a person
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🔁 Process Workflow
-
-1. **Load an Image**  
-   Upload a picture (can be of yourself or any other face).
-
-2. **Face Detection**  
-   Use **MTCNN** (Multi-task Cascaded Convolutional Networks) to detect and extract faces from the image.
-
-3. **Preprocessing**  
-   Resize and normalize the face for input into the neural network.
-
-4. **Model Prediction**  
-   Load the face image into a pre-trained **ResNet-50** model.
-
-5. **Output**  
-   Display the Bollywood celebrity with the closest resemblance to the input image.
-
-

@@ -1,6 +1,6 @@
 
 ![Diabetes Prediction Model](https://img.shields.io/badge/Diabetes%20Prediction-Model-blueviolet?style=for-the-badge&logo=medapps&logoColor=white)
-# Diabetes Prediction Model
+# Diabetes Prediction
 
 It's a Python-based Machine learning application that  predicts whether a person has diabetes based on input data. This project uses Support Vector Machine (SVM) classification to predict diabetes from a pre-trained model.
 

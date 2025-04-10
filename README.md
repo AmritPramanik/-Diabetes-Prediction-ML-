@@ -2,7 +2,7 @@
 
 # 🎬 Bollywood Celebrity Predictor
 
-A Python-based deep learning application that identifies the closest matching Bollywood celebrity from a given input image with a visible face. This project uses facial recognition and classification techniques to predict the most similar celebrity face from a pre-trained model.
+It's a Python-based Machine learning application that  predicts whether a person has diabetes based on input data. This project uses Support Vector Machine (SVM) classification to predict diabetes from a pre-trained model.
 
 ---
 
